@@ -159,7 +159,7 @@ generates the following output:
     The following resources are used by this module:
 
     - foo_resource.baz (resource)
-    - <https://registry.terraform.io/providers/hashicorp/null/latest/docs/resources/resource[null_resource.foo>] (resource)
+    - [null_resource.foo>](https://registry.terraform.io/providers/hashicorp/null/latest/docs/resources/resource) (resource)
     - [tls_private_key.baz](https://registry.terraform.io/providers/hashicorp/tls/latest/docs/resources/private_key) (resource)
     - [aws_caller_identity.current](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/caller_identity) (data source)
     - [aws_caller_identity.ident](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/caller_identity) (data source)
